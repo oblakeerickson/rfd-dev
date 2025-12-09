@@ -1,6 +1,7 @@
 = Second RFD
 :authors: Blake Erickson <blake@blake.app>
 :state: discussion
+:revdate: 2025-12-09
 :discussion:
 
 This is my Second RFD. Let's see how this goes.
