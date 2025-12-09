@@ -1,0 +1,7 @@
+= Another RFD
+:authors: Blake Erickson <blake@blake.app>
+:state: discussion
+:visibility: private
+:discussion:
+
+This RFD is going to be marked private.
