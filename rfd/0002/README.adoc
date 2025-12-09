@@ -1,6 +1,7 @@
 = RFD {rfd_number} {title}
-:authors: Your Name <your@email.com>
+:authors: Blake Erickson <blake@blake.app>
 :state: prediscussion
 :discussion:
 
-This is a placeholder for RFD {rfd_number}.
+This is my Second RFD. Let's see how this goes.
+
