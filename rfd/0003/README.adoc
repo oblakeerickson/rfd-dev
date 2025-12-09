@@ -1,6 +1,7 @@
-= RFD {rfd_number} {title}
-:authors: Your Name <your@email.com>
-:state: prediscussion
+= Another RFD
+:authors: Blake Erickson <blake@blake.app>
+:state: discussion
+:visibility: private
 :discussion:
 
-This is a placeholder for RFD {rfd_number}.
+This RFD is going to be marked private.

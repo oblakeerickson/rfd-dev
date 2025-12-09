@@ -2,6 +2,7 @@
 :authors: Blake Erickson <blake@blake.app>
 :state: discussion
 :revdate: 2025-12-09
+:visibility: public
 :discussion:
 
 This is my Second RFD. Let's see how this goes.
