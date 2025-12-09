@@ -1,4 +1,4 @@
-= RFD {rfd_number} {title}
+= Second RFD
 :authors: Blake Erickson <blake@blake.app>
 :state: discussion
 :discussion:
