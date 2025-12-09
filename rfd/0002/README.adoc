@@ -1,6 +1,6 @@
 = RFD {rfd_number} {title}
 :authors: Blake Erickson <blake@blake.app>
-:state: prediscussion
+:state: discussion
 :discussion:
 
 This is my Second RFD. Let's see how this goes.
